@@ -1,0 +1,9 @@
+name,ceiling,scale,ceiling_cv,scale_cv,min_spend,max_spend,fixed_cost,group
+Search Ads,420,60,0.10,0.10,10,200,0,digital
+Social Media,380,80,0.25,0.20,10,200,0,digital
+Display Network,210,70,0.30,0.25,5,150,0,digital
+Television,650,180,0.35,0.30,60,300,15,offline
+Print & Outdoor,180,90,0.20,0.20,10,120,5,offline
+Email & CRM,120,15,0.10,0.10,0,40,0,retention
+Events & Sponsorships,300,120,0.45,0.35,40,200,10,offline
+Affiliate Partners,160,40,0.20,0.15,0,100,0,digital
